@@ -29,8 +29,7 @@ Os dados espaciais, de demanda, tempos de deslocamento e notificações do SINAN
 
 ## Observação sobre o Gurobi
 
-O modelo utiliza o otimizador **Gurobi**. Para executá-lo, é necessário ter uma licença válida e configurada no seu ambiente. **Nunca inclua chaves, IDs de acesso ou segredos de licença em repositórios públicos.**
-
+O modelo utiliza o otimizador **Gurobi**. Para executá-lo, é necessário ter uma licença válida e configurada no seu ambiente.
 ## Autores
 
 Júlia Perez, Julia Ortiz, Maristela Santos, Cibele Russo, Oilson G. Junior e Hellen Santos.
