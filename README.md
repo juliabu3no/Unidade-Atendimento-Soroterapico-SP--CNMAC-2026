@@ -23,7 +23,8 @@ pip install numpy pandas geopandas matplotlib gdown gurobipy
 ```
 
 3. Crie a pasta `dados/` na raiz do projeto.
-4. Abra e execute o arquivo `CNMAC_Modelo_Cobertura.ipynb` em Jupyter Notebook ou Google Colab.
+4. Adicione uma cópia do arquivo `DemandasMunicipais_CNMAC.csv` na pasta.
+5. Abra e execute o arquivo `CNMAC_Modelo_Cobertura.ipynb` em Jupyter Notebook ou Google Colab.
 
 Os dados espaciais, de demanda, tempos de deslocamento e notificações do SINAN devem estar disponíveis na pasta `dados/`. Parte deles é baixada pelo próprio notebook via `gdown`.
 
